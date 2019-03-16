@@ -6,7 +6,7 @@
     <title>ledger</title>
     <authors>John Wiegley</authors>
     <packageSourceUrl>https://github.com/belidzs/chocolatey-ledger</packageSourceUrl>
-    <owners>belidzs, Abdurrahman Aborazmeh</owners>
+    <owners>Abdurrahman Aborazmeh, belidzs</owners>
     <licenseUrl>https://www.gnu.org/licenses/bsd.html</licenseUrl>
     <projectUrl>http://ledger-cli.org/</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
